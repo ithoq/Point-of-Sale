@@ -1,4 +1,4 @@
-<?php
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 class Posnic{
     private $CI;
 
@@ -429,3 +429,6 @@ class Posnic{
         return $data;
     }
 }
+
+/* End of file Posnic.php */
+/* Location: ./application/libraries/Posnic.php */

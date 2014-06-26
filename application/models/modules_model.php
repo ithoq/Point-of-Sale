@@ -60,4 +60,5 @@ class Modules_model extends CI_Model{
         return $sql->result();
     }
 }
-?>
+/* End of file modules_model.php */
+/* Location: ./application/models/modules.php */
